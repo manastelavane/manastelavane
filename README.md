@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Manas Telavane -aka Mandy</h1>
+<h1 align="center">Hi<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif?raw=true" width="40vw" style="max-width: 100%;">, I'm Manas Telavane -aka Mandy</h1>
 <h3 align="center">A passionate Compititive Programmer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/telavanemanas" target="blank"><img src="https://img.shields.io/twitter/follow/telavanemanas?logo=twitter&style=for-the-badge" alt="telavanemanas" /></a> </p>
