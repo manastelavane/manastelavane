@@ -11,7 +11,7 @@
 - 💬 Ask me about **Compititive programming roadmap.**
 
 - 📫 How to reach me **manastelavane999@gmail.com**
-- - 😄 Pronouns: **He/Him/His**
+- 😄 Pronouns: **He/Him/His**
 
 - ⚡ Fun fact **I think I am Funny.**
 
