@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif?raw=true" width="40vw" style="max-width: 100%;">, I'm Manas Telavane -aka Mandy</h1>
+<h1 align="center">Hi there <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="40" />, I am Manas Telavane</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A+Compititive+Programmer!;A+Full+Stack+Web+Developer!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+Compititive+Programmer!;A+Full+Stack+Web+Developer!;A+Open+Source+Contributor!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <p align="left"> <a href="https://twitter.com/telavanemanas" target="blank"><img src="https://img.shields.io/twitter/follow/telavanemanas?logo=twitter&style=for-the-badge" alt="telavanemanas" /></a> </p>
