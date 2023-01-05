@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=A+Compititive+Programmer!;A+Full+Stack+Web+Developer!;A+Open+Source+Contributor!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
-<p align="left"> <a href="https://twitter.com/telavanemanas" target="blank"><img src="https://img.shields.io/twitter/follow/telavanemanas?logo=twitter&style=for-the-badge" alt="telavanemanas" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/telavanemanas" target="blank"><img src="https://img.shields.io/twitter/follow/telavanemanas?logo=twitter&style=for-the-badge" alt="telavanemanas" /></a> </p> -->
 <img align="right" alt="cod" width="400" src="https://raw.githubusercontent.com/manastelavane/imagereadme/main/2842680.jpg">
 
 - 🔭 I’m currently working on **improving my Backend Development Skills.**
